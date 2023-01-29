@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Final Site Result](./gif/final_site.gif)
+![Final Site Result](./gif/final_site.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
